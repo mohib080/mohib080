@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mohib080
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on some exciting projects
 - 📫 How to reach me 
       mohibul.sawrav2004@gmail.com
