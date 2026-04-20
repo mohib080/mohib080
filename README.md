@@ -8,35 +8,20 @@
 
 ---
 
+# 🌐 CONNECT
+
 <div align="center">
-
-```diff
-+ BOOTING SYSTEM...
-+ Loading algorithms.exe
-+ Mounting backend.dll
-+ Connecting to postgres://cluster
-+ Status: ONLINE
-```
-
+[![GitHub](https://img.shields.io/badge/GitHub-mohib080-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/mohib080)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohibul_Islam-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/md-mohibul-islam-sawrav-693696202/)
+[![Instagram](https://img.shields.io/badge/Instagram-kurosaki__ichigoat-0D1117?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://www.instagram.com/kurosaki__ichigoat)
+[![Facebook](https://img.shields.io/badge/Facebook-mohibul.sawrav-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/mohibul.sawrav)
+ 
 </div>
 
 ---
 
-# ⚡ ABOUT
 
-```yaml
-name: Mohib
-role: Computer Science Student
-university: BUET
-mode: BUILDING
-focus:
-  - Algorithms
-  - Backend Systems
-  - Databases
-  - Blockchain
-```
 
----
 
 # 🚀 TECH ARSENAL
 
@@ -88,29 +73,9 @@ focus:
 <img height="220em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohib080&layout=compact&theme=tokyonight&hide_border=true&bg_color=05070D&title_color=39FF14&text_color=00F5FF"/>
 
-</div>
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-![snake gif](https://github.com/mohib080/mohib080/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-(Generate this later using GitHub Actions — worth it.)
-
 ---
 
-# 🌐 CONNECT
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-mohib080-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/mohib080)
-
-</div>
-
----
 
 # 🧠 PHILOSOPHY
 
