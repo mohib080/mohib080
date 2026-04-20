@@ -85,15 +85,10 @@ focus:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohib080&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05070D&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohib080&layout=compact&theme=tokyonight&hide_border=true&bg_color=05070D&title_color=39FF14"/>
-
-<img src="https://streak-stats.demolab.com/?user=mohib080&theme=tokyonight&hide_border=true&background=05070D&stroke=00F5FF&ring=FF00FF&fire=39FF14"/>
+<img height="220em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohib080&layout=compact&theme=tokyonight&hide_border=true&bg_color=05070D&title_color=39FF14&text_color=00F5FF"/>
 
 </div>
-
----
 
 # 🐍 CONTRIBUTION SNAKE
 
