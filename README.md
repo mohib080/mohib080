@@ -1,102 +1,33 @@
-<div align="center">
+# Hi, I'm Mohib 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=MOHIB&fontSize=70&fontColor=00F5FF&animation=twinkling&fontAlignY=35&color=0:05070D,25:00F5FF,50:7B00FF,75:FF00FF,100:05070D"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=⚡+Computer+Science+%40+BUET;⚡+Backend+%2F+Fullstack+Developer;⚡+Algorithms+%7C+Distributed+Systems;⚡+Building+The+Future)](https://git.io/typing-svg)
-
-</div>
+Computer Science student at BUET. I like building things and solving problems.
 
 ---
 
-# 🌐 CONNECT
+## About
 
-<div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-mohib080-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/mohib080)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohibul_Islam-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/md-mohibul-islam-sawrav-693696202/)
-[![Instagram](https://img.shields.io/badge/Instagram-kurosaki__ichigoat-0D1117?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://www.instagram.com/kurosaki__ichigoat)
-[![Facebook](https://img.shields.io/badge/Facebook-mohibul.sawrav-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/mohibul.sawrav)
- 
-</div>
+- 🎓 Undergraduate at BUET — Computer Science & Engineering
+- 💻 Interested in Algorithms, Backend Development, and Databases
+- 📍 Bangladesh
 
 ---
 
+## Tech Stack
 
+**Languages**
+C · C++ · Python · Java · JavaScript
 
+**Database**
+PostgreSQL
 
-# 🚀 TECH ARSENAL
-
-<div align="center">
-
-## LANGUAGES
-
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00F5FF)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=7B00FF)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=39FF14)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FF00FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-## DATABASES
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F5FF)
-
-## TOOLS
-
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF4500)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=39FF14)
-![VSCode](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F5FF)
-
-</div>
+**Tools**
+Git · Linux · VS Code
 
 ---
 
-# 🌌 FEATURED PROJECT
+## Connect
 
-<div align="center">
-
-## 📚 LIBRI
-
-```bash
-[ SYSTEM ] Online bookstore architecture
-[ DB ] PostgreSQL normalized schema
-[ API ] Backend logic
-[ UI ] HTML/CSS/JavaScript
-```
-
-</div>
-
----
-
-# 📈 CYBER METRICS
-
-<div align="center">
-
-<img height="220em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohib080&layout=compact&theme=tokyonight&hide_border=true&bg_color=05070D&title_color=39FF14&text_color=00F5FF"/>
-
----
-
-
-
-# 🧠 PHILOSOPHY
-
-<div align="center">
-
-```text
-╔═══════════════════════════════════════════════╗
-║                                               ║
-║   Solve it correctly.                         ║
-║   Optimize it ruthlessly.                     ║
-║   Engineer it beautifully.                    ║
-║                                               ║
-╚═══════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:05070D,25:FF00FF,50:00F5FF,75:7B00FF,100:05070D"/>
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-mohib080-181717?style=flat-square&logo=github)](https://github.com/mohib080)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohibul_Islam-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-mohibul-islam-sawrav-693696202/)
+[![Instagram](https://img.shields.io/badge/Instagram-kurosaki__ichigoat-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kurosaki__ichigoat)
+[![Facebook](https://img.shields.io/badge/Facebook-mohibul.sawrav-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mohibul.sawrav)
